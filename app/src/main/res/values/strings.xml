@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kids Home</string>
+    <string name="greeting_morning">Good morning!</string>
+    <string name="greeting_afternoon">Good afternoon!</string>
+    <string name="greeting_evening">Good evening!</string>
+    <string name="parents">Parents</string>
+    <string name="no_apps">No apps yet.\nA grown-up can add some with the Parents button.</string>
+    <string name="enter_pin">Parent PIN</string>
+    <string name="wrong_pin">Wrong PIN</string>
+    <string name="cannot_open">Can\'t open this app</string>
+    <string name="parent_title">Choose the apps kids can see</string>
+    <string name="parent_hint">Ticked apps appear on the kids screen. Default PIN is 1234 – please change it.</string>
+    <string name="save">Save</string>
+    <string name="change_pin">Change PIN</string>
+    <string name="tv_settings">TV settings</string>
+    <string name="new_pin">New PIN (4–8 digits)</string>
+    <string name="pin_changed">PIN changed</string>
+    <string name="pin_invalid">PIN must be 4–8 digits</string>
+    <string name="saved">Saved</string>
+</resources>

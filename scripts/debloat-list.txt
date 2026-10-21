@@ -1,0 +1,15 @@
+# Apps that show ads, sponsored rows or promos. Each one is *disabled* (not
+# uninstalled) with `pm disable-user`, so restore.sh / restore.ps1 brings them
+# back. Package names differ between TCL firmwares; any that aren't on your TV
+# are skipped. Run `./setup.sh --scan` to list the TCL packages your TV has.
+
+# Android TV sponsored "recommendations" rows
+com.google.android.tvrecommendations
+
+# TCL promo / ad / partner-content services
+com.tcl.guard
+com.tcl.partnercustomizer
+com.tcl.tvweishi
+com.tcl.messagebox
+com.tcl.esticker
+com.tcl.appmarket2

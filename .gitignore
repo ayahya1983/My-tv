@@ -1,9 +1,7 @@
 .gradle/
 build/
 local.properties
-temp_auto_push.bat
 .idea/
 *.iml
 *.apk
 .gitignore
-branch_structure.json
